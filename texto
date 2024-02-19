@@ -1,0 +1,19 @@
+
+<!--
+
+<form>
+ 
+elemento que definirá um formulario
+
+atributos basico
+-action
+- method
+-->
+
+<form action=""></form>
+
+<form action="" method="get"></form> campo de pesquisa
+
+<form action="" method="post"></form> Escondido (criação  de usuários)
+
+
